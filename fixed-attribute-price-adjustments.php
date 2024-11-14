@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Fixed Attribute Price Adjustments
  * Description: Adds fixed amount or percentage price increases to WooCommerce products based on selected attributes.
- * Version: 2.7
+ * Version: 2.8
  * Author: Patryk Czemarnik
  * Text Domain: fixed-attribute-price-adjustments
  */
